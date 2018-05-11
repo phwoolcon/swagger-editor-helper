@@ -1,4 +1,7 @@
 .hide-editor .Pane1,
-.hide-editor .topbar{display:none;}
+#swagger-editor.hide-editor .edit-menu,
+#swagger-editor .topbar-wrapper.preview-menu{display:none;}
 .hide-editor .Pane2{overflow-y:auto;width:100% !important;}
-#swagger-editor.hide-editor .SplitPane{height:auto !important;}
+#swagger-editor .topbar-wrapper .dd-menu-right{margin-left:auto;}
+#swagger-editor .topbar-wrapper .button{border:1px solid #fff;cursor:pointer;font-size:14px;padding:.1em 1em;}
+#swagger-editor.hide-editor .topbar-wrapper.preview-menu{display:flex;}
