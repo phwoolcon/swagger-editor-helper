@@ -1,5 +1,5 @@
 # Swagger Editor Helper
-Hack [Swagger Editor](https://github.com/swagger-api/swagger-editor) to Provide View-only Mode and Save File Online
+Hack [Swagger Editor](https://github.com/swagger-api/swagger-editor) to Provide View-only Mode.
 
 I don't have enough time and nodejs working experience to contribute to Swagger Editor itself, so I just hack it by override the response in nginx.
 
