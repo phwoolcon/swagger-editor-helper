@@ -1,0 +1,4 @@
+.hide-editor .Pane1,
+.hide-editor .topbar{display:none;}
+.hide-editor .Pane2{overflow-y:auto;width:100% !important;}
+#swagger-editor.hide-editor .SplitPane{height:auto !important;}
