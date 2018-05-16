@@ -1,4 +1,7 @@
 .hide-editor .Pane1,
+.hide-editor .view-line-link,
+.hide-editor .errors-wrapper,
+.hide-editor .response-content-type,
 #swagger-editor.hide-editor .edit-menu,
 #swagger-editor .topbar-wrapper.preview-menu{display:none;}
 .hide-editor .Pane2{overflow-y:auto;width:100% !important;}
