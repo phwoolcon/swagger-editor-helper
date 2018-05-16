@@ -8,3 +8,5 @@
 #swagger-editor .topbar-wrapper .dd-menu-right{margin-left:auto;}
 #swagger-editor .topbar-wrapper .button{border:1px solid #fff;cursor:pointer;font-size:14px;padding:.1em 1em;}
 #swagger-editor.hide-editor .topbar-wrapper.preview-menu{display:flex;}
+.col_header.response-col_status{position:relative;text-indent:-1000em;}
+.col_header.response-col_status:after{content:"Status";left:0;position:absolute;text-indent:0;}
